@@ -1,0 +1,98 @@
+*{
+    box-sizing:border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    background-color: rgb(219, 212, 200);
+}
+
+h1 {
+    color: black;
+    text-align:center;
+}
+
+section{
+    background-color: rgb(187, 172, 144);
+    border:1px solid black;
+    margin: 10px;
+}
+
+section>h2{
+    text-align: center;
+    margin:0;
+    border-bottom:1px solid black;
+    border-left: 1px solid black;
+    float: right;
+    width: 180px;
+    height: 35px;
+    font-weight: 100px;
+    font-size:20px;
+    padding-bottom:10px;
+}
+    
+.pos1 h2 {
+    background-color: rgb(86, 126, 86);
+}
+
+.pos2 h2{background-color: rgb(188, 199, 197);
+}
+
+.pos3 h2{
+    background-color: rgb(179, 82, 82);
+}
+
+
+.row {
+    width: 100%;
+}
+
+section>p {
+    padding: 30px 15px 15px 15px;
+}
+
+/* For Desktop */
+
+@media (min-width: 992px) {
+    .col-lg-4 {
+        float: left;
+    }
+
+    .col-lg-4{
+        width:33.333%;
+    }
+    
+}
+
+/* For Tablet */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .col-md-6, .col-md-12 {
+        float: left;
+    }
+
+    .col-md-6{
+    width: 50%;
+    }
+
+    .col-md-12{
+    width: 100%
+    }
+
+}
+
+/* For Mobile */
+
+@media (max-width: 767px){
+    .col-sm-12 {
+        float:left;
+    }
+
+    .col-sm-12{
+    width:100%;
+    }
+
+
+}
+
+/* End of the module2 assingment */
