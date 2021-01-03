@@ -1,0 +1,95 @@
+body {
+font-size: 16px;
+background-color: #f8f4f5;
+font-family: 'Times New Roman', Times, serif;
+color: black;
+}
+
+
+#header-nav {
+background-color: #92b5b8;
+border-radius: 0;
+border: 0;
+}
+
+#header-nav button {
+    margin-top: 20px;
+}
+
+
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-default  .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #65916c;
+}
+
+.navbar-brand, .navbar-nav li a {
+line-height: 76px;
+  height: 76px;
+  padding-top: 0;
+}
+
+
+.navbar-brand h1 { /* Food, LLC */
+  color: #17381f;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-weight: bolder;
+  font-size: 1.8em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #afb1b0;
+}
+
+#nav-list {
+    background-color: #458877;
+}
+
+#nav-list a {
+font-weight: bolder;
+color: #282828;
+font-size: 1.2em;
+}
+
+#nav-list a:hover {
+color: #202020;
+background-color: #d1d8d7;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+          border: 1px solid #57529e;
+}
+
+
+
+
+
+
+#main-content {
+    width: 90%;
+    margin-bottom: 35px;
+}
+
+#main-content h2 { /* Our Menu */
+font-size: 2.7em;
+ font-weight: bold;
+  margin-top: 30px;
+ margin-bottom: 40px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-section {
+    background-color: #727394;
+    box-shadow: 0 0 40px #534191;
+    padding: 30px;
+}
+
