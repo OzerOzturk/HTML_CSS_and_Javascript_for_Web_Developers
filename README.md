@@ -1,6 +1,6 @@
 # HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)
 
-![77](https://user-images.githubusercontent.com/60944453/103878660-c94f0a80-50e7-11eb-9590-25727d7fc1e9.png)
+![photo](https://user-images.githubusercontent.com/60944453/106950452-79438200-673f-11eb-8ba7-06a3e064c832.PNG)
 
 This course contains foundation knowledge for web development in my point of view. There's a chance to face problems when time comes to making project after the beginning of the course. So research, asking questions and getting feedback are valuable process to learn.
 
